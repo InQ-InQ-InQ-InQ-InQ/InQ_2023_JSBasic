@@ -7,5 +7,3 @@ function solution(my_string) {
    
    return console.log(answer);
 }
-
-solution("jaron");
