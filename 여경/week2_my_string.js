@@ -1,7 +1,7 @@
 function solution(my_string){
-    const array1 = my_string.split();
-    const array2 = array1.reverse();
-    const array = [];
+    let array1 = my_string.split();
+    let array2 = array1.reverse();
+    let array = [];
     array2.forEach(function(item){
       array.push(item);
     })
