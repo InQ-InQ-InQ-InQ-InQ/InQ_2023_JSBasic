@@ -84,7 +84,7 @@
 		<br>
 		 3/27 ~ 4/1
 	</td>
-	<td colspan="8" align="center">
+	<td colspan="9" align="center">
 		 [섹션 1] Javascript 기본<br>
 		 [섹션 2] 숫자와 문자
 	</td>
@@ -93,7 +93,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=6 align="center">
+	<td colspan=7 align="center">
 		<a href="https://www.acmicpc.net/problem/2557"/>Hello World
 	</td>
 
@@ -122,7 +122,7 @@
 	</td>
 </tr>
 <tr>
-	<td colspan="8" align="center">
+	<td colspan="9" align="center">
 		 [섹션 3] 변수<br>
 		 [섹션 4] 비교
 	</td>
@@ -131,7 +131,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=6 align="center">
+	<td colspan=7 align="center">
         --
 	</td>
 </tr>
@@ -168,7 +168,7 @@
 		<br>
 		 4/3 ~ 4/9
 	</td>
-	<td colspan="8" align="center">
+	<td colspan="9" align="center">
 		 [섹션 5] 조건문<br>
 		 [섹션 6] 반복문
 	</td>
@@ -177,10 +177,10 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=6 align="center">
+	<td colspan=7 align="center">
 		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120822">문자열 뒤집기</a>
 		 / 
-		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120583"/>중복된 숫자 개수</a>
+		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120583">중복된 숫자 개수</a>
 	</td>
 </tr>
 <tr>
@@ -211,7 +211,7 @@
 	</td>
 </tr>
 <tr>
-	<td colspan="10" align="center">
+	<td colspan="11" align="center">
 		<b>< 중간고사 대비기간></b>
 		<br>
 		 2주 동안 스터디도 쉬어갑니다 👋🏻
@@ -228,7 +228,7 @@
 		<br>
 		 4/24 ~ 4/30
 	</td>
-	<td colspan="8" align="center">
+	<td colspan="9" align="center">
 		 [섹션 7] 함수<br>
 		 [섹션 8] 배열
 	</td>
@@ -237,8 +237,10 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=6 align="center">
-        추후 공지 예정
+	<td colspan=7 align="center">
+		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12906">같은 숫자는 싫어</a>
+         /
+        <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120812">최빈값 구하기</a>
 	</td>
 </tr>
 <tr>
@@ -262,6 +264,9 @@
 	</td>
 	<td align="center">
 		🤍 서영
+	</td>
+    <td align="center">
+		🤍 은아
 	</td>
 </tr>
 <tr>
@@ -274,7 +279,7 @@
 		<br>
 		 5/1 ~ 5/7
 	</td>
-	<td colspan="8" align="center">
+	<td colspan="9" align="center">
 		 [섹션 9] 객체<br>
 		 [섹션 10] 모듈
 	</td>
@@ -283,7 +288,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=6 align="center">
+	<td colspan=7 align="center">
         추후 공지 예정
 	</td>
 </tr>
@@ -308,6 +313,9 @@
 	</td>
 	<td align="center">
 		🤍 서영
+	</td>
+    <td align="center">
+		🤍 은아
 	</td>
 </tr>
 <tr>
@@ -320,7 +328,7 @@
 		<br>
 		 5/8 ~ 5/14
 	</td>
-	<td colspan="8" align="center">
+	<td colspan="9" align="center">
 		 [섹션 11] UI 와 API 그리고 문서보는 법<br>
 		 [섹션 12] Javascript와 정규표현식
 	</td>
@@ -329,7 +337,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=6 align="center">
+	<td colspan=7 align="center">
         추후 공지 예정
 	</td>
 </tr>
@@ -355,6 +363,9 @@
 	<td align="center">
 		🤍 서영
 	</td>
+    <td align="center">
+		🤍 은아
+	</td>
 </tr>
 <tr>
 	<td colspan=10>
@@ -366,7 +377,7 @@
 		<br>
 		 5/15 ~ 5/21
 	</td>
-	<td colspan="8" align="center">
+	<td colspan="9" align="center">
 		 [섹션 13] 유효범위<br>
 		 [섹션 14] 값으로서의 함수와 콜백
 	</td>
@@ -375,7 +386,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=6 align="center">
+	<td colspan=7 align="center">
         추후 공지 예정
 	</td>
 </tr>
@@ -400,6 +411,9 @@
 	</td>
 	<td align="center">
 		🤍 서영
+	</td>
+    <td align="center">
+		🤍 은아
 	</td>
 </tr>
 <tr>
@@ -412,7 +426,7 @@
 		<br>
 		 5/22 ~ 5/28
 	</td>
-	<td colspan="8" align="center">
+	<td colspan="9" align="center">
 		 [섹션 15] 클로저<br>
 		 [섹션 16] arguments
 	</td>
@@ -421,7 +435,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=6 align="center">
+	<td colspan=7 align="center">
         추후 공지 예정
 	</td>
 </tr>
@@ -446,6 +460,9 @@
 	</td>
 	<td align="center">
 		🤍 서영
+	</td>
+    <td align="center">
+		🤍 은아
 	</td>
 </tr>
 <tr>
@@ -458,7 +475,7 @@
 		<br>
 		 5/29 ~ 6/4
 	</td>
-	<td colspan="8" align="center">
+	<td colspan="9" align="center">
 		 [섹션 17] 함수의 호출<br>
 		 [섹션 18] 객체지향 프로그래밍 소개
 	</td>
@@ -467,7 +484,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=6 align="center">
+	<td colspan=7 align="center">
         추후 공지 예정
 	</td>
 </tr>
@@ -493,9 +510,12 @@
 	<td align="center">
 		🤍 서영
 	</td>
+    <td align="center">
+		🤍 은아
+	</td>
 </tr>
 <tr>
-	<td colspan="10" align="center">
+	<td colspan="11" align="center">
 		<b>< 기말고사 대비기간></b>
 		<br>
 		 2주 동안 스터디도 쉬어갑니다 👋🏻
@@ -512,7 +532,7 @@
 		<br>
 		 6/19 ~ 6/25
 	</td>
-	<td colspan="8" align="center">
+	<td colspan="9" align="center">
 		 [섹션 19] 생성자와 new<br>
 		 [섹션 20] 전역객체
 	</td>
@@ -521,7 +541,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=6 align="center">
+	<td colspan=7 align="center">
         추후 공지 예정
 	</td>
 </tr>
@@ -547,6 +567,9 @@
 	<td align="center">
 		🤍 서영
 	</td>
+    <td align="center">
+		🤍 은아
+	</td>
 </tr>
 <tr>
 	<td colspan=10>
@@ -558,7 +581,7 @@
 		<br>
 		 6/26 ~ 7/2
 	</td>
-	<td colspan="8" align="center">
+	<td colspan="9" align="center">
 		 [섹션 21] this<br>
 		 [섹션 22] 상속
 	</td>
@@ -567,7 +590,7 @@
 	<td colspan=2 align="center">
 		과제
 	</td>
-	<td colspan=6 align="center">
+	<td colspan=7 align="center">
 		추후 공지 예정
 	</td>
 </tr>
@@ -592,6 +615,9 @@
 	</td>
 	<td align="center">
 		🤍 서영
+	</td>
+    <td align="center">
+		🤍 은아
 	</td>
 </tr>
 <tr>
