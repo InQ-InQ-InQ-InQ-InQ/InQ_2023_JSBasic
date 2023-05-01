@@ -5,7 +5,5 @@ function solution(my_string) {
 
     answer = answer.join('')
    
-   return console.log(answer);
+    return answer;
 }
-
-solution("jaron");

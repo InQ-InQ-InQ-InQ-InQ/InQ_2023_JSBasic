@@ -1,5 +1,5 @@
 function solution(array, n) {
-    var answer = 0;
+    let answer = 0;
     for (i=0; i<array.length; i++) {
         if (array[i] == n) {
             answer = answer +1;
