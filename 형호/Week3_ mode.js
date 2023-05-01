@@ -1,19 +1,18 @@
 function solution(array) {
-    var answer = 0;
-    let max = 0;
-    const count = new Array(100).fill(0);
-    array.sort((a, b) => a - b);
-    console.log(array);
-    array.forEach(function (val, num, arr) {
-        count[val]++;
-        if (count[val] > max) {
-            max = count[val];
+    let answer = 0;
+    let test = 0;
+    const arr = new Array(100).fill(0);
+    array.forEach(function (val) {
+        arr[val] += 1;
+        if (arr[answer] === arr[val] && answer !== val) {
+            test = -1;
+        } else if (arr[val] > answer) {
             answer = val;
-        } else if (count[val] === max) {
-            answer = -1;
+            test = 0;
         }
     });
-    return answer;
+    console.log("answer :" + answer + " test : " + test);
+    return test === 0 ? answer : -1;
 }
 
 function solution(array) {
