@@ -18,7 +18,7 @@
     }
     ```
   ```js
-  const Person {
+  const Person = {
       // 작성 부분
   }
   ```
