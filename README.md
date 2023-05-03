@@ -289,7 +289,9 @@
 		과제
 	</td>
 	<td colspan=7 align="center">
-        추후 공지 예정
+        	<a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_JSBasic/blob/main/%EA%B3%BC%EC%A0%9C/Week4_helloObjWorld.md">
+		HELLO_OBJ_WORLD!
+		</a>
 	</td>
 </tr>
 <tr>
