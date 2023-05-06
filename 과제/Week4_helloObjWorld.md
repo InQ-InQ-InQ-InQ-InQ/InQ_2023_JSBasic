@@ -44,8 +44,8 @@
 
 - 객체는 다음과 같이 생성할 예정입니다. 객체 리터럴의 경우는 별도로 생성하지 않습니다.
    ```js
-  const me = new Person(); // via Class
-  Person.initialize(); // via literal
+  const me = new Person(myName, myAge, myStdNum, myHobby, myGrade, myProperty); // via Class
+  Person.initialize(myName, myAge, myStdNum, myHobby, myGrade, myProperty); // via literal
   ```
 
 ---
