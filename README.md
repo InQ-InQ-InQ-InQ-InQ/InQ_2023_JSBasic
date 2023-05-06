@@ -248,25 +248,25 @@
 		성취도
 	</td>
 		<td align="center">
-		🤍 태용
+		💗 태용
 	</td>
 	<td align="center">
-		🤍 형호
+		💗 형호
 	</td>
 	<td align="center">
-		🤍 여경
+		💗 여경
 	</td>
 	<td align="center">
-		🤍 건우
+		❤️‍🩹 건우
 	</td>
 	<td align="center">
-		🤍 원재
+		💗 원재
 	</td>
 	<td align="center">
-		🤍 서영
+		❤️‍🩹 서영
 	</td>
     <td align="center">
-		🤍 은아
+		❤️‍🩹 은아
 	</td>
 </tr>
 <tr>
