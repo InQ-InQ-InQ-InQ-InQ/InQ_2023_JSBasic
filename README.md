@@ -340,7 +340,9 @@
 		과제
 	</td>
 	<td colspan=7 align="center">
-        추후 공지 예정
+        	<a href="https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_JSBasic/blob/main/%EA%B3%BC%EC%A0%9C/Week5_HowToUseAPI.md">
+		HOW_TO_USE_API
+		</a>
 	</td>
 </tr>
 <tr>
