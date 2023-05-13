@@ -8,4 +8,4 @@ function solution(array) {
     return count > 1 ? -1 : [...arr].find(v => v[1] === max)[0]
 }
 
-//도움받음 어려워서
+//도움받음//..
