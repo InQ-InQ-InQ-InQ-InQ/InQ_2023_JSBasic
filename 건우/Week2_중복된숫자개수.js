@@ -7,3 +7,6 @@ function solution(array, n) {
     }
     return answer;
 }
+
+array = [1, 2,3, 4]
+console.log(solution(array, 2));

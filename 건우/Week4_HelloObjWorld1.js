@@ -37,3 +37,4 @@ class Person {
       }
     
 }
+export {Person};
