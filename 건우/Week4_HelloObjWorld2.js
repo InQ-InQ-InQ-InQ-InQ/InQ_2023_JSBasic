@@ -43,3 +43,4 @@ const Person = {
         console.log(this);
     },
 };
+export {Person};
